@@ -415,6 +415,8 @@ public class PantallaPrincipal extends javax.swing.JFrame {
         float litrosConsumidos = 0;
         float consProm = 0;
         int largo = 0;
+        
+        
 
         
         DefaultTableModel calculo = new DefaultTableModel();
